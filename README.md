@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="30" height="30" /> About Me
 
 - **Double Degree** in Computer Engineering & Business Administration at **Universidad Carlos III de Madrid (UC3M)**
 - **Cadet at 42 Madrid** — Mastering peer-to-peer learning, system programming, and solving problems without traditional teachers
@@ -22,48 +22,54 @@
 
 ---
 
-## Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" /> Tech Stack
 
 <div align="center">
 
 ### Languages
-![C](https://img.shields.io/badge/C-0A192F?style=flat-square&logo=c&logoColor=FFD700)
-![C++](https://img.shields.io/badge/C++-0A192F?style=flat-square&logo=cplusplus&logoColor=FFD700)
-![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=FFD700)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=flat-square&logo=javascript&logoColor=FFD700)
-![SQL](https://img.shields.io/badge/Oracle_SQL-0A192F?style=flat-square&logo=oracle&logoColor=FFD700)
-![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=flat-square&logo=html5&logoColor=FFD700)
-![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=flat-square&logo=css3&logoColor=FFD700)
+
+<a href="#"><img src="https://cdn.simpleicons.org/c/FFD700" alt="C" title="C" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/cplusplus/FFD700" alt="C++" title="C++" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/python/FFD700" alt="Python" title="Python" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/javascript/FFD700" alt="JavaScript" title="JavaScript" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/oracle/FFD700" alt="Oracle SQL" title="Oracle SQL" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/html5/FFD700" alt="HTML5" title="HTML5" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/css3/FFD700" alt="CSS3" title="CSS3" width="50" height="50"/></a>
 
 ### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-0A192F?style=flat-square&logo=django&logoColor=FFD700)
-![Unittest](https://img.shields.io/badge/Unittest-0A192F?style=flat-square&logo=python&logoColor=FFD700)
-![PyBuilder](https://img.shields.io/badge/PyBuilder-0A192F?style=flat-square&logo=python&logoColor=FFD700)
-![Make](https://img.shields.io/badge/Makefile-0A192F?style=flat-square&logo=cmake&logoColor=FFD700)
+
+<a href="#"><img src="https://cdn.simpleicons.org/django/FFD700" alt="Django" title="Django" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/pytest/FFD700" alt="Unittest" title="Unittest" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/pypi/FFD700" alt="PyBuilder" title="PyBuilder" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/gnu/FFD700" alt="Makefile" title="Makefile" width="50" height="50"/></a>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0A192F?style=flat-square&logo=git&logoColor=FFD700)
-![Linux](https://img.shields.io/badge/Linux-0A192F?style=flat-square&logo=linux&logoColor=FFD700)
-![Docker](https://img.shields.io/badge/Docker-0A192F?style=flat-square&logo=docker&logoColor=FFD700)
-![Bash](https://img.shields.io/badge/Bash-0A192F?style=flat-square&logo=gnubash&logoColor=FFD700)
+
+<a href="#"><img src="https://cdn.simpleicons.org/git/FFD700" alt="Git" title="Git" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/linux/FFD700" alt="Linux" title="Linux" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/docker/FFD700" alt="Docker" title="Docker" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/gnubash/FFD700" alt="Bash" title="Bash" width="50" height="50"/></a>
 
 </div>
 
 ---
 
-## Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" /> Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**ft_irc**](https://github.com/juansagaro/ft_irc) | Custom IRC server built from scratch following RFC 2812. Features channel management, operator privileges, DCC file transfer, and an integrated bot. | `C++98` `Sockets` `poll()` `TCP/IP` |
-| [**CPP Modules**](https://github.com/juansagaro/CPP) | Complete set of C++ exercises from 42, covering OOP fundamentals, memory management, polymorphism, templates, STL containers, and design patterns. | `C++98` `OOP` `STL` `Templates` |
-| [**Web Facepainting**](https://github.com/juansagaro/Web-Facepainting) | Full-stack web application for a professional facepainting business. Features booking system, portfolio gallery, and client management. *(In progress)* | `Django` `JavaScript` `HTML/CSS` `SQL` |
+<div align="center">
+
+[![ft_irc](https://github-readme-stats.vercel.app/api/pin/?username=juansagaro&repo=ft_irc&theme=dark&hide_border=true&bg_color=0A192F&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700)](https://github.com/juansagaro/ft_irc)
+[![CPP](https://github-readme-stats.vercel.app/api/pin/?username=juansagaro&repo=CPP&theme=dark&hide_border=true&bg_color=0A192F&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700)](https://github.com/juansagaro/CPP)
+
+[![Web-Facepainting](https://github-readme-stats.vercel.app/api/pin/?username=juansagaro&repo=Web-Facepainting&theme=dark&hide_border=true&bg_color=0A192F&title_color=FFD700&text_color=C9D1D9&icon_color=FFD700)](https://github.com/juansagaro/Web-Facepainting)
+
+</div>
 
 > *Check out my [repositories](https://github.com/juansagaro?tab=repositories) for more projects from 42 and personal work.*
 
 ---
 
-## GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Stats
 
 <div align="center">
 
@@ -76,7 +82,7 @@
 
 ---
 
-## Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Contact" width="30" height="30" /> Let's Connect
 
 <div align="center">
 
